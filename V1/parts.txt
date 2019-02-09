@@ -1,0 +1,17 @@
+Partlist
+
+Exported from McPiFace-V1.brd at 09/02/2019 22:13
+
+EAGLE Version 7.4.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package               Library             Position (mm)         Orientation
+
+D1                      LED-1206-BOTTOM-1.6MM ThingySticks        (34.3 58)             MR0
+D2                      LED-1206-BOTTOM-1.6MM ThingySticks        (34.3 62)             MR0
+D3                      LED-1206-BOTTOM-1.6MM ThingySticks        (34.3 66)             MR0
+J1                      1X04_1MM_RA           SparkFun-Connectors (6 41)                MR0
+R1                      1206                  SparkFun-Resistors  (7 47.5)              MR180
+R2                      1206                  SparkFun-Resistors  (7 51)                MR180
+R3                      1206                  SparkFun-Resistors  (7 54.5)              MR180
