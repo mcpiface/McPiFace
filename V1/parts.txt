@@ -1,17 +1,16 @@
 Partlist
 
-Exported from McPiFace-V1.brd at 09/02/2019 22:13
+Exported from McPiFace-V1.1.brd at 24/03/2019 02:59
 
 EAGLE Version 7.4.0 Copyright (c) 1988-2015 CadSoft
 
 Assembly variant: 
 
-Part     Value          Package               Library             Position (mm)         Orientation
+Part     Value                                                        Package                                Library            Position (mm)         Orientation
 
-D1                      LED-1206-BOTTOM-1.6MM ThingySticks        (34.3 58)             MR0
-D2                      LED-1206-BOTTOM-1.6MM ThingySticks        (34.3 62)             MR0
-D3                      LED-1206-BOTTOM-1.6MM ThingySticks        (34.3 66)             MR0
-J1                      1X04_1MM_RA           SparkFun-Connectors (6 41)                MR0
-R1                      1206                  SparkFun-Resistors  (7 47.5)              MR180
-R2                      1206                  SparkFun-Resistors  (7 51)                MR180
-R3                      1206                  SparkFun-Resistors  (7 54.5)              MR180
+D2       Green                                                        LED-1206-BOTTOM-2.0MM                  ThingySticks       (4 59)                MR90
+D3       Red                                                          LED-1206-BOTTOM-2.0MM                  ThingySticks       (10 59)               MR90
+J1       MC_PI_FACE_CONNECTORS_LEDSSIDE                               JST-4-SH-1.0MM-SIDE                    McPiFace           (6.8 49.8)            MR0
+R1                                                                    0805                                   SparkFun-Resistors (10 53.4)             MR90
+R2                                                                    0805                                   SparkFun-Resistors (4 53.4)              MR90
+S1       MOMENTARY-SWITCH-SPSTTACKTILE_SWITCH_PTH_6.0MM_NO_TOP_RESIST TACTILE_SWITCH_PTH_6.0MM_NO_TOP_RESIST ThingySticks       (7 29)                R0
