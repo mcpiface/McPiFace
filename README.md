@@ -4,7 +4,7 @@ A Simple front panel for a raspberry pi to allow for blade style rack mounting.
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-[![Buy on Tindie]("https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png)](https://www.tindie.com/products/ThingySticks/pi-blade-mcpiface/)
+[![Buy on Tindie](https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png)](https://www.tindie.com/products/ThingySticks/pi-blade-mcpiface/)
 
 ## Version 1.1
 
