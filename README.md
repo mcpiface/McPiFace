@@ -36,6 +36,21 @@ The McPyFace.py script can be run to monitor the Pi's temperature and change the
 
 This file should be called from rc.local at startup. Instructions are given in the file to configure this and set permissions.
 
+## Sled
+
+To mount the raspberry Pi a 3D printable sled is available:
+
+https://www.thingiverse.com/thing:3488157
+
+## Rack Mount Frame
+
+DAP Audio 2 HE Rackblende f. Modulsystem 10 Segmente MP-1 from Music Store.
+
+* UK: https://www.dv247.com/en_GB/GBP/DAP-Audio-2-HE-Rackblende-f-Modulsystem-10-Segmente-MP-1/art-PAH0017160-000
+
+* Germany: https://www.musicstore.de/en_US/USD/DAP-Audio-2-HE-Rackblende-f-Modulsystem-10-Segmente-MP-1/art-PAH0017160-000
+
+
 ## Version History
 
 V1.0 - had Leds "hidden" in the vent grill and no button.
