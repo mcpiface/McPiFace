@@ -2,6 +2,18 @@
 
 A Simple front panel for a raspberry pi to allow for blade style rack mounting.
 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+[![Buy on Tindie]("https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png)](https://www.tindie.com/products/ThingySticks/pi-blade-mcpiface/)
+
+## Version 1.1
+
+![Pi Mounted](V1/Images/V1.1/McPiFace-PiMounted.jpg)
+
+![Pi On Sled](V1/Images/V1.1/PiOnSled.jpg)
+
+![Various McPiFace's in a rack](V1/Images/V1.1/InRack.jpg)
+
 ## Connections
 
 McPiFace has 2 LEDs (red/green) and a push button option. These can be ignored if not required.
@@ -23,3 +35,8 @@ The Examples folder contains sample Python code to interact with the LEDs and bu
 The McPyFace.py script can be run to monitor the Pi's temperature and change the red/green LED when it gets hot, as well as shutdown or reboot the Pi when the button is pressed.
 
 This file should be called from rc.local at startup. Instructions are given in the file to configure this and set permissions.
+
+## Version History
+
+V1.0 - had Leds "hidden" in the vent grill and no button.
+V1.1 - adopted common LED/button layout used across other McPiFace front panels.
