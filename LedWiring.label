@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DieCutLabel Version="8.0" Units="twips">
+	<PaperOrientation>Landscape</PaperOrientation>
+	<Id>Shipping</Id>
+	<IsOutlined>false</IsOutlined>
+	<PaperName>30323 Shipping</PaperName>
+	<DrawCommands>
+		<RoundRectangle X="0" Y="0" Width="3060" Height="5715" Rx="270" Ry="270" />
+	</DrawCommands>
+	<ObjectInfo>
+		<AddressObject>
+			<Name>Address</Name>
+			<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+			<BackColor Alpha="0" Red="255" Green="255" Blue="255" />
+			<LinkedObjectName />
+			<Rotation>Rotation0</Rotation>
+			<IsMirrored>False</IsMirrored>
+			<IsVariable>True</IsVariable>
+			<GroupID>-1</GroupID>
+			<IsOutlined>False</IsOutlined>
+			<HorizontalAlignment>Left</HorizontalAlignment>
+			<VerticalAlignment>Middle</VerticalAlignment>
+			<TextFitMode>ShrinkToFit</TextFitMode>
+			<UseFullFontHeight>True</UseFullFontHeight>
+			<Verticalized>False</Verticalized>
+			<StyledText>
+				<Element>
+					<String xml:space="preserve">LED Wiring:
+</String>
+					<Attributes>
+						<Font Family="Arial" Size="24" Bold="True" Italic="False" Underline="False" Strikeout="False" />
+						<ForeColor Alpha="255" Red="0" Green="0" Blue="0" HueScale="100" />
+					</Attributes>
+				</Element>
+				<Element>
+					<String xml:space="preserve">* Black: Pin 39 - GND - Ground
+* Red: Pin 40 - BCM/GPIO 21 - Red LED
+* Green: Pin 38 - BCM/GPIO 20 - Green LED
+* Yellow: Pin 37 (BCM/GPIO 26) - Button
+</String>
+					<Attributes>
+						<Font Family="Arial" Size="16" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+						<ForeColor Alpha="255" Red="0" Green="0" Blue="0" HueScale="100" />
+					</Attributes>
+				</Element>
+				<Element>
+					<String xml:space="preserve">Code:
+</String>
+					<Attributes>
+						<Font Family="Arial" Size="24" Bold="True" Italic="False" Underline="False" Strikeout="False" />
+						<ForeColor Alpha="255" Red="0" Green="0" Blue="0" HueScale="100" />
+					</Attributes>
+				</Element>
+				<Element>
+					<String xml:space="preserve">https://github.com/mcpiface/McPiFace/tree/master/V1/Examples</String>
+					<Attributes>
+						<Font Family="Arial" Size="14" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+						<ForeColor Alpha="255" Red="0" Green="0" Blue="0" HueScale="100" />
+					</Attributes>
+				</Element>
+			</StyledText>
+			<ShowBarcodeFor9DigitZipOnly>True</ShowBarcodeFor9DigitZipOnly>
+			<BarcodePosition>Suppress</BarcodePosition>
+			<LineFonts>
+				<Font Family="Arial" Size="24" Bold="True" Italic="False" Underline="False" Strikeout="False" />
+				<Font Family="Arial" Size="16" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+				<Font Family="Arial" Size="16" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+				<Font Family="Arial" Size="16" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+				<Font Family="Arial" Size="16" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+				<Font Family="Arial" Size="24" Bold="True" Italic="False" Underline="False" Strikeout="False" />
+				<Font Family="Arial" Size="14" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+			</LineFonts>
+		</AddressObject>
+		<Bounds X="307" Y="57.9999999999999" Width="5265" Height="2918" />
+	</ObjectInfo>
+</DieCutLabel>
