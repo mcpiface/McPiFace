@@ -1,0 +1,16 @@
+Partlist
+
+Exported from McPiFace-Pi4-V1.0.brd at 12/01/2020 15:57
+
+EAGLE Version 7.4.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value                                                        Package                                Library            Position (mm)         Orientation
+
+D2       Green                                                        LED-1206-BOTTOM-2.0MM                  ThingySticks       (4 59)                MR90
+D3       Red                                                          LED-1206-BOTTOM-2.0MM                  ThingySticks       (10 59)               MR90
+J1       MC_PI_FACE_CONNECTORS_LEDSSIDE                               JST-4-SH-1.0MM-SIDE                    McPiFace           (6.8 49.8)            MR0
+R1                                                                    0805                                   SparkFun-Resistors (10 53.4)             MR90
+R2                                                                    0805                                   SparkFun-Resistors (4 53.4)              MR90
+S1       MOMENTARY-SWITCH-SPSTTACKTILE_SWITCH_PTH_6.0MM_NO_TOP_RESIST TACTILE_SWITCH_PTH_6.0MM_NO_TOP_RESIST ThingySticks       (7 29)                R0
