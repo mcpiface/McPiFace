@@ -14,7 +14,7 @@ The samples assume the front panel connector is wired as follows:
 Black: Pin 39 GND
 Red: Pin 40 (BCM 21)
 Green: Pin 38 (BCM 20)
-Yellow: Pin 37 (BCM 26)
+Blue (or Yellow): Pin 37 (BCM 26)
 
 See https://pinout.xyz/ for Raspberry Pi header pinout.
 
